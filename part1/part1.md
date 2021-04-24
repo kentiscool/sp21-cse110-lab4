@@ -1,12 +1,12 @@
-1a
+## 1a
 1. values added: 20
 2. final result: 20
 3. values added: 20
 4. Error: result is not within scope
 5. Error: cannot mutate constant
-6.
+6. ""
 
-1b
+## 1b
 1. 3, it prints out the last value of i which is the length of prices(3)
 2. 150, it prints out the last discountedPrice which is 300/2
 3. 150, it prints out the last finalPrice which is discountedPrice which is 300/2
